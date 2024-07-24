@@ -1,0 +1,151 @@
+/* *{
+    border: 1px solid rebeccapurple;
+} */
+.navicon{
+ width: 5vw;
+ height: 5vh;
+}
+.navi{
+    color: white;
+}
+.sec1{
+    padding: 15%;
+}
+.sec1{
+background-image: url(img/6526344691187712.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.imgt{
+    background-color: orange;
+    padding: 2%;
+    width: 29vw;
+    margin-top:100px;
+
+    
+}
+.imt{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+font-weight: 200;
+font-size: 1rem;
+}
+.clients{
+    font-family: 'Times New Roman', Times, serif;
+}
+.sec1p{
+  color: black;
+  font-size: 2rem;
+}
+.sec1i{
+    color: orange;
+    font-size: 2rem;
+}
+.text{
+   font-size: 1rem;
+}
+.sec3{
+    background-color: beige;
+}
+.sec3t1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.sec3t2{
+   text-align: center;
+}
+.card-title{
+    color: orangered;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.card-text{
+    text-align: center;
+}
+.orange{
+    background-color: orangered;
+   
+}
+.darkgrey{
+    background-color:  darkgray;
+}
+.orangt1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.sec3ul{
+   justify-content: center;
+}
+.darkgreyt1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.sec7{
+    
+    padding: 10%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(112, 120, 113, 0.6),rgba(112,120,113,0.9)),url(img/istockphoto-1696781145-170667a.webp);
+   
+
+}
+.sec7t1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: orangered;
+}
+.sec7in{
+    outline: none;
+    font-size: 1em;
+
+   
+
+   
+}
+::placeholder{
+    font-size: 1rem;
+    color: white;
+   
+}
+.sec7input{
+    padding: 10%;
+    width: 27vw;
+    background-color: transparent;
+    border: 1px solid white;
+ 
+}
+
+.sec7input9{
+    background-color: transparent;
+}
+.sec8{
+    background-color: #525D63;
+}
+.location{
+    color: white;
+   border-radius: 100px;
+}
+.locationtext{
+    color: white;
+   font-family: 'Times New Roman', Times, serif;
+}
+.sec10{
+    background-color: #424D54;
+}
+.sec10t1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+.sec10ic{
+    color: orangered;
+}
+.sec10ic2{
+    color: orangered;
+    
+}
+.sec10img{
+    height: 25vh;
+    width: 48vw;
+}
